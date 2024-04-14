@@ -76,6 +76,7 @@
   "accessibility.verbosity.panelChat": false,
   "accessibility.verbosity.terminal": false,
   "files.associations": {
-    "syscall.h": "c"
+    "syscall.h": "c",
+    "oslib.h": "c"
   }
 }
