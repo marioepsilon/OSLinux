@@ -1,4 +1,3 @@
-// https://www.youtube.com/watch?v=7yE_WafMOVI
 
 .global _start
 .text
